@@ -13,7 +13,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "/home/runner/work/util-ts-template/util-ts-template/src/index.ts",
+			"originalName": "/home/runner/work/voice/voice/src/index.ts",
 			"children": [
 				{
 					"id": 2,
@@ -75,7 +75,7 @@
 			"flags": {
 				"isExported": true
 			},
-			"originalName": "/home/runner/work/util-ts-template/util-ts-template/test/Util.ts",
+			"originalName": "/home/runner/work/voice/voice/test/Util.ts",
 			"sources": [
 				{
 					"fileName": "test/Util.ts",
